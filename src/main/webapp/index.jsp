@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>Hello World!</h2>
-<h2> Welcome to Git </h2>
+<h2>welcome to pvn world</h2>
+<h2> this tomcat web server created by parsha narayana</h2>
 </body>
 </html>
