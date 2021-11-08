@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>PARSHA NARAYANA</h2>
-<h2> I LOVE YOU INDIA   ,INDIAN SOLIDERS ARE BRAVE</h2>
+<h2>MATHS BY PVN</h2>
+<h2> this website belongs to parsha narayana</h2>
 </body>
 </html>
