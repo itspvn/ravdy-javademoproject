@@ -1,6 +1,6 @@
 <html>
 <body>
-<h2>MAVEB BY PVN</h2>
+<h2>MAVEN BY PVN</h2>
 <h2> this website belongs to PARSHA NARAYANA</h2>
   <p> maven : build tool.<br>
 
