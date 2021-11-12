@@ -13,6 +13,10 @@
 <div class="center">
  <h1 style="background-color:DodgerBlue";>MATHS BY PVN-03</h1>
 </div>
+.center {
+  text-align: center;
+  color: red;
+}
 <p style="text-align:center"style="color:red">this website belongs to parsha narayana</p2>
 </body>
 </html>
