@@ -11,10 +11,9 @@
 </head>
 <body>
 
-<h2>Center Text</h2>
-<h1 style="background-color:powderblue;">PVN-01</h1>
+<h2>this is tomcat webserver</h2>
 <div class="center">
-  <p>This text is centered.</p>
+ <h1 style="background-color:powderblue;">PVN-01</h1>
 </div>
 
 </body>
