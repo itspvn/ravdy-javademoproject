@@ -11,11 +11,8 @@
 </head>
 <body>
 <div class="center">
-<h2>this is tomcat webserver</h2>
-  </div>
-<div class="center">
  <h1 style="background-color:powderblue;">PVN-01</h1>
+  <p>this website belongs to parsha narayana</p>
 </div>
-
 </body>
 </html>
