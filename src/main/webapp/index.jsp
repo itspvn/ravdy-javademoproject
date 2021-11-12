@@ -13,6 +13,6 @@
 <div class="center">
  <h1 style="background-color:powderblue;">PVN-01</h1>
 </div>
-  <p allien=center;>this website belongs to parsha narayana</p>
+<p style="text-align:center">this website belongs to parsha narayana</p2>
 </body>
 </html>
