@@ -5,7 +5,7 @@
 <style>
 .center {
   text-align: center;
-  border: 3px solid red;
+  border: 1px solid red;
 }
 </style>
 </head>
