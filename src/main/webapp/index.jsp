@@ -11,7 +11,7 @@
 </head>
 <body>
 <div class="center">
- <h1 style="background-color:DodgerBlue;">MATHS BY PVN-02</h1>
+ <h1 style="background-color:DodgerBlue;">MATHS BY PVN-03</h1>
 </div>
 <p style="text-align:center">this website belongs to parsha narayana</p2>
 </body>
