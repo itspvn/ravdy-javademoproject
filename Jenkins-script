@@ -1,0 +1,28 @@
+pipeline {
+    agent any
+    stages {
+        stage ("Git checkout") {
+            steps{
+                git credentialsId: 'myjob', url: 'https://github.com/itspvn/ravdy-javademoproject.git'
+            }
+        }
+        stage ("Maven build") {
+            steps {
+                sh "mvn clean package"
+                sh "mv target/*.war target/webapps.war
+            }
+        }
+        stage ("deploy-dev") {
+            steps {
+               sshagent(['eba8e76a-e9f9-46b4-86bc-fd8cd313bfa5']) {
+                   sh """
+                   cp  
+                   ssh ec2-user@    /home/ec2-user/apache-tomcat-9.0.55/bin/shutdown.sh
+                   ssh ec2-user@172.31.42.17 /home/ec2-user/apache-tomcat-9.0.55/bin/startup.sh
+                   
+} 
+
+            }
+        }
+    }
+}
